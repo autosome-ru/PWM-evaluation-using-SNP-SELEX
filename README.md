@@ -1,4 +1,4 @@
-# PWM-deltaSVM-comparison
+# PWM evaluation using SNP-SELEX
 Supplementary data for "Positional weight matrices have sufficient prediction power for analysis of noncoding variants".<br>
 This project contains the following data:
 - <b>Pwm_aupr_2c.tsv</b> - Performance of Yan et al. ΔPWM in predicting preferential binding SNPs on the 1st batch of the SNP-SELEX data (provided by prof. Bing Ren).<br><br>
